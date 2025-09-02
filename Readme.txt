@@ -1,4 +1,4 @@
-# 🦎 Sistem Pakar Penyakit Iguana
+# 🦎 Sistem Pakar untuk Mendiagnosis Penyakit Reptil Iguana dengan Metode Forward Chaining
 
 Sistem ini merupakan **aplikasi web berbasis sistem pakar** yang digunakan untuk mendiagnosa penyakit pada iguana.  
 Aplikasi ini bertujuan memberikan informasi kepada pecinta iguana mengenai penyakit yang dapat menyerang iguana, serta langkah penanganan dan solusi terbaik agar kesehatan iguana tetap terjaga dengan baik.
@@ -27,7 +27,7 @@ Aplikasi ini bertujuan memberikan informasi kepada pecinta iguana mengenai penya
 1. **Clone / Copy Project ke htdocs**
    ```bash
    cd /opt/lampp/htdocs/
-   git clone https://github.com/username/pakariguana.git
+   git clone https://github.com/youliant/sistem-pakar-iguana.git
 2.Import Database
   a.Masuk ke phpMyAdmin melalui browser:
     http://localhost/phpmyadmin
